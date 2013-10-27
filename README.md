@@ -1,4 +1,4 @@
-# QCMerge Conference 2014 Planning Repo
+# QCMerge 2014 Planning Repo
 
 ### Let's plan QCMerge 2014! 
 
